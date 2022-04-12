@@ -11,5 +11,7 @@ to create another one of these input the following in the terminal:
     <br>*This will allow you to use the import/export syntax rather than the classic require*
     <br>*ie: `import foo from "bar";` instead of `const foo = require('bar)`
 7. create a new ` index.js `
-8. Output can be done using your regular `console.log()`
-9. To run, in your terminal: `node . ` or `
+8. add a shebang at the top of index.js to tell the OS to execute code with node.js version installed
+    <br> `#!/usr/bin/env node`
+10. Output can be done using your regular `console.log()`
+11. To run, in your terminal: `node . ` or `

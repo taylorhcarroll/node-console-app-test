@@ -14,4 +14,4 @@ to create another one of these input the following in the terminal:
 8. add a shebang at the top of index.js to tell the OS to execute code with node.js version installed
     <br> `#!/usr/bin/env node`
 10. Output can be done using your regular `console.log()`
-11. To run, in your terminal: `node . ` or `
+11. To run, in your terminal: `node . ` or `node index.js`

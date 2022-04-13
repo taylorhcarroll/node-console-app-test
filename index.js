@@ -66,6 +66,10 @@ async function askName() {
 //   console.log(`Hi ${answers['name']}!`)
 // })
 
+
+
 //nodeJS supports top level await, so you can use the await keyword outside an async function
 await welcome()
 await askName()
+
+
